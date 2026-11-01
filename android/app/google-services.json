@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044418534193",
+    "project_id": "towlink-ghana",
+    "storage_bucket": "towlink-ghana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044418534193:android:aa421274463321c2452e10",
+        "android_client_info": {
+          "package_name": "com.example.towlink_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044418534193-m6t0lpb14odkf54me6ijq8gppkm7u0ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.towlink_app",
+            "certificate_hash": "dffb80f50fe32620297b0e6bbd97cc6c751c6567"
+          }
+        },
+        {
+          "client_id": "1044418534193-ukd6gos7s5ivm1o84in8u1nbh5k56opm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATnrBD6v8B8LMXn3TySTU1K8CLtFc-h8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044418534193-ukd6gos7s5ivm1o84in8u1nbh5k56opm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
